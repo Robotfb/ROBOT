@@ -6,7 +6,7 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "SOURAV-BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
@@ -14,7 +14,7 @@
   ],
   "ADMINBOT": [
     "100014896964436",
-    "100000959749712"
+    "100075964867229"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
